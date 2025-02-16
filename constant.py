@@ -32,7 +32,7 @@ info = {'brief':
         'study':'University of California Riverside',
         'location':'Kirkland, WA',
         'interest':'Full Stack, Data Science, Product Management',
-        'skills':['Python','Java','Javascript','Typescript','Shell','HTML & CSS','React','Node.js','Tableau','Streamlit','PySpark','Svelte','Docker','Kafka','Kubernetes','MongoDB','PostgreSQL','MySQL','SQLite','AWS','Github','Gitlab','Figma','OpenAI API','Excalidraw','Trello','REST api','HTTP'],
+        'skills':['Python','Transformer', 'LLM'],
         }
 
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
