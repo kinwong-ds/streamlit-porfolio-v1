@@ -31,7 +31,7 @@ info = {'brief':
         'name':'Kin Wong', 
         'study':'University of California Riverside',
         'location':'Kirkland, WA',
-        'interest':'Full Stack, Data Science, Product Management',
+        'interest':'Data Science, Home Lab',
         'skills':['Python','Transformer', 'LLM'],
         }
 
