@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_scroll_navigation import scroll_navbar
 from constant import *
 
-st.set_page_config(page_title="Main Page", page_icon="🏠", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Main Page", page_icon="🏠", layout="wide", initial_sidebar_state="auto")
 
 st.markdown(
     """
