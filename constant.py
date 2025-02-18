@@ -2,13 +2,13 @@ import streamlit as st
 
 skill_col_size = 5
 
-def menu():
-    bar0, bar1, bar2, bar3, bar4= st.columns([0.1,1,1,1,1])
-    bar1.page_link("Mainpage.py", label="Introduction", icon="🏠")
-    bar2.page_link("pages/1_Experience.py", label= "Experience", icon="📚")
-    bar3.page_link("pages/2_Portofolio.py", label="Portofolio", icon="🎨")
-    bar4.page_link("pages/3_Contacts.py", label="Contacts", icon="🌏")
-    st.write("")
+# def menu():
+#     bar0, bar1, bar2, bar3, bar4= st.columns([0.1,1,1,1,1])
+#     bar1.page_link("Mainpage.py", label="Introduction", icon="🏠")
+#     bar2.page_link("pages/1_Experience.py", label= "Experience", icon="📚")
+#     bar3.page_link("pages/2_Portofolio.py", label="Portofolio", icon="🎨")
+#     bar4.page_link("pages/3_Contacts.py", label="Contacts", icon="🌏")
+#     st.write("")
 
 #publication_url --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 linkedin_logo = '''                                                                                                                                          
@@ -26,7 +26,7 @@ info = {'brief':
               """    
                 Data Scientist with 5+ years of experience in machine learning operations, NLP, and data analytics. Specializes in
                 optimizing claim processing, reducing false positives, and enhancing model accuracy to provide actionable business insights.
-                Certified in Azure DP-100 and eager to leverage expertise in designing and implementing cloud-based AI solutions.
+                Certified in Azure DP-100 and eager to leverage expertise in designing and implementing local and cloud-based AI solutions.
               """,
         'name':'Kin Wong', 
         'study':'University of California Riverside',
