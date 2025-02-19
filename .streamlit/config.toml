@@ -1,6 +1,6 @@
 [theme]
-primaryColor="#FF4B4B"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#31333F"
+primaryColor="#FF4B4B"  # Keep your accent color (or change it)
+backgroundColor="#262627"  # Your main background color
+secondaryBackgroundColor="#303031"  # Slightly lighter for secondary backgrounds
+textColor="#CDCBC8"  # Your desired text color
 font="monospace"

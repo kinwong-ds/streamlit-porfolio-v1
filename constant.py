@@ -25,14 +25,16 @@ github_logo = '''
 info = {'brief':
               """    
                 Data Scientist with 5+ years of experience in machine learning operations, NLP, and data analytics. Specializes in
-                optimizing claim processing, reducing false positives, and enhancing model accuracy to provide actionable business insights.
-                Certified in Azure DP-100 and eager to leverage expertise in designing and implementing local and cloud-based AI solutions.
+                optimizing claim processing, transformer model tuning, and enhancing model accuracy to provide actionable business insights.
+                Certified in Azure DP-100 and eager to leverage expertise in designing and implementing both local and cloud-based AI solutions.
               """,
         'name':'Kin Wong', 
         'study':'University of California Riverside',
         'location':'Kirkland, WA',
         'interest':'Data Science, Home Lab',
-        'skills':['Python','Transformer', 'LLM'],
+        'skills':['Python', 'Spark', 'Airflow', 'MLOps', 'Docker', 'Kubernetes','Azure',
+                  'Transformer', 'LLM', 'Dashboard', 'Model Monitoring', 'NLP', 'Data Cleaning',
+                  'Feature Selection', 'Feature Engineering', 'Anomaly Detection', 'Classification'],
         }
 
 # Experience --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
